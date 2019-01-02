@@ -35,7 +35,7 @@ Focus on machine learning (especially transfer learning) and its application on 
 
 ### 3.2 Segmentation
 
-- Kao P Y, Ngo T, Zhang A, et al. __Brain Tumor Segmentation and Tractographic Feature Extraction from Structural MR Images for Overall Survival Prediction[J]__. arXiv preprint arXiv:1807.07716, 2018. [[paper]](https://arxiv.org/abs/1807.07716) [code]:star::star::star:
+- Kao P Y, Ngo T, Zhang A, et al. __Brain Tumor Segmentation and Tractographic Feature Extraction from Structural MR Images for Overall Survival Prediction[J]__. arXiv preprint arXiv:1807.07716, 2018. [[paper]](https://arxiv.org/abs/1807.07716) :star::star::star:
 - Ghafoorian M, Mehrtash A, Kapur T, et al. __Transfer Learning for Domain Adaptation in MRI: Application in Brain Lesion Segmentation[C]__// International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2017:516-524.[[paper]](https://arxiv.org/abs/1702.07841) :star::star:
 - Kamnitsas K, Baumgartner C, Ledig C, et al. __Unsupervised domain adaptation in brain lesion segmentation with adversarial networks[C]__//International Conference on Information Processing in Medical Imaging. Springer, Cham, 2017: 597-609. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47) :star::star::star:
 - Ganaye P A, Sdika M, Benoit-Cattin H. __Semi-supervised learning for segmentation under semantic constraint[C]__//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018: 595-602. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_68) :star::star::star:
@@ -65,7 +65,7 @@ Focus on machine learning (especially transfer learning) and its application on 
 
 ### 4.2 Loss Function
 
-- __[restoration]__Zhao H, Gallo O, Frosio I, et al. __Loss functions for image restoration with neural networks[J]__. IEEE Transactions on Computational Imaging, 2017, 3(1): 47-57. [[paper]](https://arxiv.org/pdf/1511.08861.pdf):star::star::star: 
+- [restoration]Zhao H, Gallo O, Frosio I, et al. __Loss functions for image restoration with neural networks[J]__. IEEE Transactions on Computational Imaging, 2017, 3(1): 47-57. [[paper]](https://arxiv.org/pdf/1511.08861.pdf):star::star::star: 
 
 
 ------
